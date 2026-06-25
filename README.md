@@ -1,43 +1,54 @@
 # Hi there, I'm Ramudi 👋
 
-🎓 Undergraduate Student
+🎓 Undergraduate Student at Sabaragamuwa University of Sri Lanka
 
-## About Me
+## 🌟 About Me
 
-♥️✨️I am an undergraduate student passionate about technology, software development, and continuous learning. I enjoy building projects, exploring new technologies, and improving my programming skills.
+I am a passionate undergraduate student interested in technology, software development, and continuous learning. I enjoy building innovative projects, exploring new technologies, and enhancing my problem-solving skills.
 
-## Skills
+## 🎓 Education
 
-- 💛Java
-- 💛HTML
-- 💛CSS
-- 💛JavaScript
-- 💛MongoDB
-- 💛Git & GitHub
+🏛️ Sabaragamuwa University of Sri Lanka
 
-## Currently Learning🧑‍🏫
+📚 Undergraduate Student
 
-- Web Development
-- Software Engineering
-- Database Management
-- Java concepts
+## 💻 Technical Skills
 
-## Goals🧑‍🎓
+- ☕ Java
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🍃 MongoDB
+- 🔧 Git & GitHub
 
-- Build innovative software projects
-- Improve problem-solving skills
-- Contribute to open-source projects
-- Grow as a software developer
+## 🚀 Currently Learning
 
-## 🌐 Connect With Me🙋‍♀️
+- 🌍 Web Development
+- 🏗️ Software Engineering
+- 🗄️ Database Management
+- 🤖 Modern Technologies
 
-📧 Email: praminiyar@gmail.com
+## 🎯 Goals
+
+- 🚀 Build impactful software projects
+- 🧩 Improve problem-solving abilities
+- 🌱 Continuously learn new technologies
+- 🤝 Contribute to open-source projects
+- 💼 Grow as a software developer
+
+## 🌐 Connect With Me
+
+📧 Email:praminiyar@gmail.com
+📧University Email: 23app6393@ms.sab.ac.lk
 
 💼 LinkedIn:
-https://www.linkedin.com/in/ramudi-praminiya-5976b13a9
+linkedin.com/in/ramudi-praminiya-5976b13a9
 
 💻 GitHub:
-https://github.com/Ramudi0531
+github.com/Ramudi0531
 
+---
 
-⭐ Thanks for visiting my profile
+✨ *"Learning, Building, and Growing Every Day."*
+
+⭐ Thank you for visiting my GitHub profile!
