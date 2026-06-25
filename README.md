@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Ramudi 👋
 
-<!--
-**Ramudi0531/Ramudi0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♥️✨️I am an undergraduate student passionate about technology, software development, and continuous learning. I enjoy building projects, exploring new technologies, and improving my programming skills.
+
+## Skills
+
+- 💛Java
+- 💛HTML
+- 💛CSS
+- 💛JavaScript
+- 💛MongoDB
+- 💛Git & GitHub
+
+## Currently Learning🧑‍🏫
+
+- Web Development
+- Software Engineering
+- Database Management
+- Java concepts
+
+## Goals🧑‍🎓
+
+- Build innovative software projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+- Grow as a software developer
+
+## 🌐 Connect With Me🙋‍♀️
+
+📧 Email: praminiyar@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ramudi-praminiya-5976b13a9
+
+💻 GitHub:
+https://github.com/Ramudi0531
+
+
+⭐ Thanks for visiting my profile
